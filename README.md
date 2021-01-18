@@ -1,5 +1,5 @@
 # Project-2
-Analyze New York Stock Exchange S&amp;P 500 Data
+Analyzing New York Stock Exchange S&amp;P 500 Data
 
 In this project I have used data set provided from Kaggle that contains historical financial data from S&P 500 companies.
 The main goal of this project is for me to demonstrate my ability to:
